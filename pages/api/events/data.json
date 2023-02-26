@@ -8,7 +8,7 @@
       "address": "Delbrückstraße 37, 14193 Berlin",
       "performers": "Alain Girandot",
       "date": "June 09, 2021",
-      "time": "10:00 PM EST",
+      "time": "10:00",
       "description": "Saturday breakfast in European style for true connoisseurs, that is with a glass of champagne",
       "image": "/images/sample/event1.jpg"
     },
@@ -20,7 +20,7 @@
       "address": "Alexanderplatz, Panoramastraße 1A, 10178 Berlin",
       "performers": "Alexandra Schmidt",
       "date": "June 2, 2021",
-      "time": "8:00 PM EST",
+      "time": "20:00",
       "description": "Spend a perfect evening in the company of your loved one with a glass of fine wine and a breathtaking view of the city",
       "image": "/images/sample/event2.jpg"
     },
@@ -32,19 +32,19 @@
       "address": "Waldstraße 29, 13403 Berlin",
       "performers": "Bad Boy Bill",
       "date": "June 11, 2021",
-      "time": "7:00 PM EST",
+      "time": "21:00",
       "description": "Who is ready to party? I mean in the middle of the water, a boat with good music and drinks. If thats you then you have made it to the right place.",
       "image": "/images/sample/event3.jpg"
     },
     {
       "id": "4",
-      "name": "Panacotta Sunday With The Best Chef",
+      "name": "Panacotta Sunday",
       "slug": "panacotta-sunday-with-the-best-chef",
       "venue": "Konditorei Marzipan",
       "address": "Bartningallee 29, 10557 Berlin",
       "performers": "Andrea Bartini",
       "date": "February 26, 2023",
-      "time": "10:00 PM EST",
+      "time": "15:00",
       "description": "The most famous Italian pastry chef will give you a unique master class on how to make the most delicate and fluffy dessert. Enjoy the relaxing atmosphere of a cozy kitchen and make the best panacotta of your life with a glass of Prosecco",
       "image": "/images/sample/event4.jpg"
     },
@@ -56,7 +56,7 @@
       "address": "Leipziger Platz 12, 10117 Berlin",
       "performers": "Hassan Hasir",
       "date": "March 3, 2023",
-      "time": "8:00 PM EST",
+      "time": "20:00",
       "description": "Learn how to make the juiciest steak of your life! Chef Hassan Hasir will tell you all the ins and outs of how to make this dish unforgettable and share his secrets",
       "image": "/images/sample/event5.jpg"
     },
@@ -68,7 +68,7 @@
       "address": "Zinnowitzer Straße 5, 10115 Berlin",
       "performers": "Jose Pablo Pereira",
       "date": "July 2, 2023",
-      "time": "8:00 PM EST",
+      "time": "19:00",
       "description": "Dope party which vegan soul kitchen legends, fresh ingredients and friendly ambiente",
       "image": "/images/sample/event6.jpg"
     }
